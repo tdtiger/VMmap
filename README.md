@@ -1,0 +1,2 @@
+# VMmap
+vending machine map
